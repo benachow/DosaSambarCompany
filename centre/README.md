@@ -127,7 +127,7 @@ npm run test:unit
 ```
 
 
-See [Testing Documents](docs/testing.md) for a `how-to` overview.
+See [Testing Documents](docs/testing.md) for a `how-to` overview and local sandbox or online sandbox service
 
 ### CoffeeScript linter
 
