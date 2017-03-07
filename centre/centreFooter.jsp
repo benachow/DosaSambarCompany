@@ -105,7 +105,7 @@
 
         <%-- Privacy Policy --%>
         <c:set var="changePrivacyPolicyUrl" value="${nationalRootPath}/privacy-policy.html" />
-        <%-- Cookies Policy --%>
+        
         
         <%-- Terms + Conditions --%>
         <c:set var="changeTermsConditionsUrl" value="${nationalRootPath}/terms-and-conditions.html" />
