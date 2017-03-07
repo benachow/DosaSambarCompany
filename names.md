@@ -7,7 +7,7 @@ Nitesh Goyal
 Neeru Gupta
 Shaurav Ranjan
 Vibha Yadav- vib
-Akansha Chitransh - Gunnie
+Akansha Chitransh - Gunnie-Red
 praveen raturi - lovey
 Hrishikesh - rishi
 Saurav Arora - sau
