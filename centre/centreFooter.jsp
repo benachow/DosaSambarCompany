@@ -235,9 +235,7 @@
             </c:if><!--
 
             --><li>
-              <a href="${changeTermsConditionsUrl}" data-track="click terms conditions" data-track-label="">
-                Terms + Conditions
-              </a>
+              
             </li><!--
 
             --><li>
