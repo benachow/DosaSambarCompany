@@ -3,7 +3,7 @@ subl# This is a list of all the names of people working on this project
 # Format -   Full name - nickname (optional)
 Rucha Rathor
 Benjamin Chow - Ben
-Nitesh Goyal 
+Nitesh Goyal - green
 Neeru Gupta
 Shaurav Ranjan
 Vibha Yadav- vib
