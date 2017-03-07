@@ -1,3 +1,5 @@
+
+[TR-10]
 # dosa_sambar_company
 Who doesn't love Dosa? This is a test repo for playing
 
@@ -75,8 +77,8 @@ From the root directory, run ``ruby sandbox.rb host=<<sandbox domain>>`` to enab
 The script currently supports the following:
 1. DSS
 2. Wallet
-3. Smart Parking
-4. Favorites
+3. Favorites
+4. Announcements
 
 
 ## Frontend
