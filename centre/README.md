@@ -26,7 +26,7 @@ An overview of the AEM platform can be found
         <username>aem</username>
         <password>SK8-VxW-wBu-Rb5</password>
         <configuration>
-          <timeout>5000</timeout>
+          <timeout>10000</timeout>
         </configuration>
       </server>
       <server>
@@ -34,13 +34,13 @@ An overview of the AEM platform can be found
         <username>aem</username>
         <password>SK8-VxW-wBu-Rb5</password>
         <configuration>
-          <timeout>5000</timeout>
+          <timeout>10000</timeout>
         </configuration>
       </server>
       <server>
         <id>adobe</id>
         <configuration>
-          <timeout>5000</timeout>
+          <timeout>10000</timeout>
         </configuration>
       </server>
     </servers>
