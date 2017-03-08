@@ -107,8 +107,7 @@
         <c:set var="changePrivacyPolicyUrl" value="${nationalRootPath}/privacy-policy.html" />
         <%-- Cookies Policy --%>
         <c:set var="changeCookiesPolicyUrl" value="${nationalRootPath}/cookies-policy.html" />
-        <%-- Terms + Conditions --%>
-        <c:set var="changeTermsConditionsUrl" value="${nationalRootPath}/terms-and-conditions.html" />
+        
 
         <%-- Footer Nav and Center Info --%>
         <div class="footer__info footer__info--centre">
@@ -235,9 +234,7 @@
             </c:if><!--
 
             --><li>
-              <a href="${changeTermsConditionsUrl}" data-track="click terms conditions" data-track-label="">
-                Terms + Conditions
-              </a>
+              
             </li><!--
 
             --><li>
