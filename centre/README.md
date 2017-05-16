@@ -64,7 +64,7 @@ GPP: Run 'mvn -Pinstall-gpp-package clean install' or 'mvn -Pinstall-pub-gpp-pac
 
 This project uses Maven for building. Common commands:
 
-From the root directory, run ``mvn -Pinstall-full clean install`` to build the bundle and content package and install to a CQ instance.
+From the root directory, run ``mvn -Pbuild-test-frontend,install-full clean install`` to build the bundle and content package and install to a CQ instance.
 
 ## Sandbox
 
