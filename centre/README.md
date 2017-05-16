@@ -48,7 +48,7 @@ An overview of the AEM platform can be found
   ```
 
   *On OS X and Linux, this file should be located at `~/.m2/settings.xml`.*
-4. Run `mvn -Pinstall-full clean install` to install dependencies and deploy the entire project (formerly separated Bluegrass, GPP, and Centre) to your local AEM author
+4. Run `mvn -Pbuild-test-frontend,install-full clean install` to install dependencies and deploy the entire project (formerly separated Bluegrass, GPP, and Centre) to your local AEM author
 5. Run `mvn -Pinstall-pub-full clean install` to install to your publish instance
 
 Note: You may build or deploy sub-modules independently to shorten build time. When you build for the first time with a new version number SNAPSHOT, that is you've rebased after a deployment, you'll need to build the project in it's entirety. To build modules indepdently:
